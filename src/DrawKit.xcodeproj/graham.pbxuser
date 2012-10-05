@@ -1,0 +1,2823 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = 8DC2EF4F0486A6940098B216 /* DrawKit */;
+		addToTargets = (
+			8DC2EF4F0486A6940098B216 /* DrawKit */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = BFFC4F1F0D9F793A003E1655 /* Code sense */;
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					330,
+					20,
+					227,
+					227,
+					158,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					642,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					676,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					950.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					985,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					886,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					808,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					896,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 293602984;
+			PBXWorkspaceStateSaveDate = 293602984;
+		};
+		perUserProjectItems = {
+			BFB885F7117D6A4800CA7B01 /* PBXTextBookmark */ = BFB885F7117D6A4800CA7B01 /* PBXTextBookmark */;
+			BFB886D9117ED36500CA7B01 /* PBXTextBookmark */ = BFB886D9117ED36500CA7B01 /* PBXTextBookmark */;
+			BFB886DA117ED36500CA7B01 /* PBXTextBookmark */ = BFB886DA117ED36500CA7B01 /* PBXTextBookmark */;
+			BFB886DB117ED36500CA7B01 /* PBXTextBookmark */ = BFB886DB117ED36500CA7B01 /* PBXTextBookmark */;
+			BFB886DC117ED36500CA7B01 /* PBXTextBookmark */ = BFB886DC117ED36500CA7B01 /* PBXTextBookmark */;
+			BFB886DD117ED36500CA7B01 /* PBXTextBookmark */ = BFB886DD117ED36500CA7B01 /* PBXTextBookmark */;
+			BFB886DE117ED36500CA7B01 /* PBXTextBookmark */ = BFB886DE117ED36500CA7B01 /* PBXTextBookmark */;
+			BFB886E0117ED36500CA7B01 /* PBXTextBookmark */ = BFB886E0117ED36500CA7B01 /* PBXTextBookmark */;
+			BFB886E1117ED36500CA7B01 /* PBXTextBookmark */ = BFB886E1117ED36500CA7B01 /* PBXTextBookmark */;
+			BFE3A8C51180054000938C8E /* PBXTextBookmark */ = BFE3A8C51180054000938C8E /* PBXTextBookmark */;
+			BFE3A8C61180054000938C8E /* PBXTextBookmark */ = BFE3A8C61180054000938C8E /* PBXTextBookmark */;
+			BFE3A8C71180054000938C8E /* PBXTextBookmark */ = BFE3A8C71180054000938C8E /* PBXTextBookmark */;
+			BFE3A8C81180054000938C8E /* PBXTextBookmark */ = BFE3A8C81180054000938C8E /* PBXTextBookmark */;
+			BFE3A8C91180054000938C8E /* PBXTextBookmark */ = BFE3A8C91180054000938C8E /* PBXTextBookmark */;
+			BFE3A8CA1180054000938C8E /* PBXTextBookmark */ = BFE3A8CA1180054000938C8E /* PBXTextBookmark */;
+			BFE3A8CB1180054000938C8E /* PBXTextBookmark */ = BFE3A8CB1180054000938C8E /* PBXTextBookmark */;
+			BFE3A8CC1180054000938C8E /* PBXTextBookmark */ = BFE3A8CC1180054000938C8E /* PBXTextBookmark */;
+			BFE3A8CD1180054000938C8E /* PBXTextBookmark */ = BFE3A8CD1180054000938C8E /* PBXTextBookmark */;
+			BFE3A8CE1180054000938C8E /* PBXTextBookmark */ = BFE3A8CE1180054000938C8E /* PBXTextBookmark */;
+			BFE3A8CF1180054000938C8E /* PBXTextBookmark */ = BFE3A8CF1180054000938C8E /* PBXTextBookmark */;
+			BFE3A8D01180054000938C8E /* PBXTextBookmark */ = BFE3A8D01180054000938C8E /* PBXTextBookmark */;
+			BFE3A97A1181359D00938C8E /* PBXTextBookmark */ = BFE3A97A1181359D00938C8E /* PBXTextBookmark */;
+			BFE3A97B1181359D00938C8E /* PBXTextBookmark */ = BFE3A97B1181359D00938C8E /* PBXTextBookmark */;
+			BFE3A97C1181359D00938C8E /* PBXTextBookmark */ = BFE3A97C1181359D00938C8E /* PBXTextBookmark */;
+			BFE3A97D1181359D00938C8E /* PBXTextBookmark */ = BFE3A97D1181359D00938C8E /* PBXTextBookmark */;
+			BFE3A97E1181359D00938C8E /* PBXTextBookmark */ = BFE3A97E1181359D00938C8E /* PBXTextBookmark */;
+			BFE3A97F1181359D00938C8E /* PBXTextBookmark */ = BFE3A97F1181359D00938C8E /* PBXTextBookmark */;
+			BFE3A9801181359D00938C8E /* PBXTextBookmark */ = BFE3A9801181359D00938C8E /* PBXTextBookmark */;
+			BFE3A9811181359D00938C8E /* PBXTextBookmark */ = BFE3A9811181359D00938C8E /* PBXTextBookmark */;
+			BFE3A9821181359D00938C8E /* PBXTextBookmark */ = BFE3A9821181359D00938C8E /* PBXTextBookmark */;
+			BFE3A9831181359D00938C8E /* PBXTextBookmark */ = BFE3A9831181359D00938C8E /* PBXTextBookmark */;
+			BFE3A9841181359D00938C8E /* PBXTextBookmark */ = BFE3A9841181359D00938C8E /* PBXTextBookmark */;
+			BFE3A9851181359D00938C8E /* PBXTextBookmark */ = BFE3A9851181359D00938C8E /* PBXTextBookmark */;
+			BFE3A9861181359D00938C8E /* PBXTextBookmark */ = BFE3A9861181359D00938C8E /* PBXTextBookmark */;
+			BFE3A9871181359D00938C8E /* PBXTextBookmark */ = BFE3A9871181359D00938C8E /* PBXTextBookmark */;
+			BFE3A9881181359D00938C8E /* PBXTextBookmark */ = BFE3A9881181359D00938C8E /* PBXTextBookmark */;
+			BFE3A9891181359D00938C8E /* PBXTextBookmark */ = BFE3A9891181359D00938C8E /* PBXTextBookmark */;
+			BFE3A98A1181359D00938C8E /* PBXTextBookmark */ = BFE3A98A1181359D00938C8E /* PBXTextBookmark */;
+			BFE3A99811814A0F00938C8E /* PBXTextBookmark */ = BFE3A99811814A0F00938C8E /* PBXTextBookmark */;
+			BFE3A99911814A0F00938C8E /* PBXTextBookmark */ = BFE3A99911814A0F00938C8E /* PBXTextBookmark */;
+			BFE3A99A11814A0F00938C8E /* PBXTextBookmark */ = BFE3A99A11814A0F00938C8E /* PBXTextBookmark */;
+			BFE3A99B11814A0F00938C8E /* PBXTextBookmark */ = BFE3A99B11814A0F00938C8E /* PBXTextBookmark */;
+			BFE3A99C11814A0F00938C8E /* PBXTextBookmark */ = BFE3A99C11814A0F00938C8E /* PBXTextBookmark */;
+			BFE3A99D11814A0F00938C8E /* PBXTextBookmark */ = BFE3A99D11814A0F00938C8E /* PBXTextBookmark */;
+			BFE3A99E11814A0F00938C8E /* PBXTextBookmark */ = BFE3A99E11814A0F00938C8E /* PBXTextBookmark */;
+			BFE3A99F11814A0F00938C8E /* PBXTextBookmark */ = BFE3A99F11814A0F00938C8E /* PBXTextBookmark */;
+			BFE3A9A011814A0F00938C8E /* PBXTextBookmark */ = BFE3A9A011814A0F00938C8E /* PBXTextBookmark */;
+			BFE3A9A311814A6E00938C8E /* PBXTextBookmark */ = BFE3A9A311814A6E00938C8E /* PBXTextBookmark */;
+			BFE3A9A411814A6E00938C8E /* PBXTextBookmark */ = BFE3A9A411814A6E00938C8E /* PBXTextBookmark */;
+			BFE3AF371189372500938C8E /* PBXTextBookmark */ = BFE3AF371189372500938C8E /* PBXTextBookmark */;
+			BFE3AF381189372500938C8E /* PBXTextBookmark */ = BFE3AF381189372500938C8E /* PBXTextBookmark */;
+			BFE3AF391189372500938C8E /* PBXTextBookmark */ = BFE3AF391189372500938C8E /* PBXTextBookmark */;
+			BFE3AF3A1189372500938C8E /* PBXTextBookmark */ = BFE3AF3A1189372500938C8E /* PBXTextBookmark */;
+			BFE3AF3B1189372500938C8E /* PBXTextBookmark */ = BFE3AF3B1189372500938C8E /* PBXTextBookmark */;
+			BFE3AF3C1189372500938C8E /* PBXTextBookmark */ = BFE3AF3C1189372500938C8E /* PBXTextBookmark */;
+			BFE3AF3D1189372500938C8E /* PBXTextBookmark */ = BFE3AF3D1189372500938C8E /* PBXTextBookmark */;
+			BFE3AF3E1189372500938C8E /* PBXTextBookmark */ = BFE3AF3E1189372500938C8E /* PBXTextBookmark */;
+			BFE3AF3F1189372500938C8E /* PBXTextBookmark */ = BFE3AF3F1189372500938C8E /* PBXTextBookmark */;
+			BFE3AF401189372500938C8E /* PBXTextBookmark */ = BFE3AF401189372500938C8E /* PBXTextBookmark */;
+			BFE3AF411189372500938C8E /* PBXTextBookmark */ = BFE3AF411189372500938C8E /* PBXTextBookmark */;
+			BFE3AF421189372500938C8E /* PBXTextBookmark */ = BFE3AF421189372500938C8E /* PBXTextBookmark */;
+			BFE3AF431189372500938C8E /* PBXTextBookmark */ = BFE3AF431189372500938C8E /* PBXTextBookmark */;
+		};
+		sourceControlManager = BFFC4F1E0D9F793A003E1655 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C1667FE841158C02AAC07 /* InfoPlist.strings */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1253, 655}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 101}";
+		};
+	};
+	32DBCF5E0370ADEE00C91783 /* DKDrawKit_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2574, 546}}";
+			sepNavSelRange = "{1190, 33}";
+			sepNavVisRange = "{0, 2434}";
+		};
+	};
+	8DC2EF4F0486A6940098B216 /* DrawKit */ = {
+		activeExec = 0;
+	};
+	96F515FA0B89DBBC0047BA96 /* DKDrawing.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 3679}}";
+			sepNavSelRange = "{10140, 0}";
+			sepNavVisRange = "{9878, 1918}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F515FB0B89DBBC0047BA96 /* DKDrawing.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 42406}}";
+			sepNavSelRange = "{63099, 0}";
+			sepNavVisRange = "{62259, 1916}";
+			sepNavWindowFrame = "{{15, 4}, {1123, 1024}}";
+		};
+	};
+	96F515FE0B89DBBC0047BA96 /* DKDrawingInfoLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 1190}}";
+			sepNavSelRange = "{958, 51}";
+			sepNavVisRange = "{1095, 1543}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F515FF0B89DBBC0047BA96 /* DKDrawingInfoLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 8204}}";
+			sepNavSelRange = "{13256, 0}";
+			sepNavVisRange = "{12259, 1317}";
+		};
+	};
+	96F516000B89DBBC0047BA96 /* DKGridLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 2652}}";
+			sepNavSelRange = "{5084, 0}";
+			sepNavVisRange = "{3803, 1556}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516010B89DBBC0047BA96 /* DKGridLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 22100}}";
+			sepNavSelRange = "{49144, 40}";
+			sepNavVisRange = "{49591, 1481}";
+			sepNavWindowFrame = "{{128, 213}, {1492, 800}}";
+		};
+	};
+	96F516020B89DBBC0047BA96 /* DKGuideLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 1807}}";
+			sepNavSelRange = "{3617, 0}";
+			sepNavVisRange = "{1025, 1380}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516030B89DBBC0047BA96 /* DKGuideLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 24921}}";
+			sepNavSelRange = "{40245, 0}";
+			sepNavVisRange = "{39046, 1480}";
+		};
+	};
+	96F516040B89DBBC0047BA96 /* DKImageOverlayLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 854}}";
+			sepNavSelRange = "{238, 0}";
+			sepNavVisRange = "{276, 1184}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516050B89DBBC0047BA96 /* DKImageOverlayLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 3262}}";
+			sepNavSelRange = "{3295, 13}";
+			sepNavVisRange = "{2694, 1272}";
+		};
+	};
+	96F516070B89DBBC0047BA96 /* DKObjectOwnerLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 3523}}";
+			sepNavSelRange = "{5103, 130}";
+			sepNavVisRange = "{8424, 987}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516080B89DBBC0047BA96 /* DKObjectOwnerLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 42250}}";
+			sepNavSelRange = "{99504, 19}";
+			sepNavVisRange = "{98738, 1204}";
+		};
+	};
+	96F516090B89DBBC0047BA96 /* DKObjectDrawingLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 2847}}";
+			sepNavSelRange = "{7546, 0}";
+			sepNavVisRange = "{1235, 2075}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5160A0B89DBBC0047BA96 /* DKObjectDrawingLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1181, 53209}}";
+			sepNavSelRange = "{107620, 0}";
+			sepNavVisRange = "{106840, 1397}";
+		};
+	};
+	96F5160B0B89DBBD0047BA96 /* DKObjectDrawingLayer+Alignment.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1440, 1339}}";
+			sepNavSelRange = "{3405, 0}";
+			sepNavVisRange = "{2420, 1616}";
+		};
+	};
+	96F5160C0B89DBBD0047BA96 /* DKObjectDrawingLayer+Alignment.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 13351}}";
+			sepNavSelRange = "{18639, 32}";
+			sepNavVisRange = "{17898, 1728}";
+		};
+	};
+	96F5160D0B89DBBD0047BA96 /* DKObjectDrawingLayer+BooleanOps.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1053}}";
+			sepNavSelRange = "{1099, 28}";
+			sepNavVisRange = "{0, 2151}";
+		};
+	};
+	96F5160E0B89DBBD0047BA96 /* DKObjectDrawingLayer+BooleanOps.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 8411}}";
+			sepNavSelRange = "{1423, 46}";
+			sepNavVisRange = "{1785, 1612}";
+		};
+	};
+	96F516110B89DBBD0047BA96 /* DKLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 2834}}";
+			sepNavSelRange = "{6354, 0}";
+			sepNavVisRange = "{5765, 1441}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516120B89DBBD0047BA96 /* DKLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 29887}}";
+			sepNavSelRange = "{28913, 0}";
+			sepNavVisRange = "{28512, 1482}";
+		};
+	};
+	96F516140B89DBBD0047BA96 /* DKDrawableObject.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 4628}}";
+			sepNavSelRange = "{2945, 27}";
+			sepNavVisRange = "{758, 2305}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516150B89DBBD0047BA96 /* DKDrawableObject.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 53833}}";
+			sepNavSelRange = "{124032, 0}";
+			sepNavVisRange = "{123905, 919}";
+			sepNavWindowFrame = "{{1680, -203}, {1492, 800}}";
+		};
+	};
+	96F516160B89DBBD0047BA96 /* DKDrawableShape.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 3055}}";
+			sepNavSelRange = "{3144, 409}";
+			sepNavVisRange = "{2068, 1602}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516170B89DBBD0047BA96 /* DKDrawableShape.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1251, 49803}}";
+			sepNavSelRange = "{116356, 61}";
+			sepNavVisRange = "{116248, 1214}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516180B89DBBD0047BA96 /* DKReshapableShape.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 858}}";
+			sepNavSelRange = "{632, 0}";
+			sepNavVisRange = "{706, 2387}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516190B89DBBD0047BA96 /* DKReshapableShape.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 2756}}";
+			sepNavSelRange = "{951, 13}";
+			sepNavVisRange = "{195, 1236}";
+		};
+	};
+	96F5161A0B89DBBD0047BA96 /* DKImageShape.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 1729}}";
+			sepNavSelRange = "{606, 19}";
+			sepNavVisRange = "{659, 1702}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5161B0B89DBBD0047BA96 /* DKImageShape.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 22282}}";
+			sepNavSelRange = "{46262, 42}";
+			sepNavVisRange = "{45980, 1667}";
+		};
+	};
+	96F5161E0B89DBBD0047BA96 /* DKShapeGroup.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 1586}}";
+			sepNavSelRange = "{1849, 12}";
+			sepNavVisRange = "{516, 951}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5161F0B89DBBD0047BA96 /* DKShapeGroup.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 18551}}";
+			sepNavSelRange = "{40456, 41}";
+			sepNavVisRange = "{40984, 1044}";
+		};
+	};
+	96F516200B89DBBD0047BA96 /* DKDrawablePath.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 2275}}";
+			sepNavSelRange = "{4977, 38}";
+			sepNavVisRange = "{1971, 1078}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516210B89DBBD0047BA96 /* DKDrawablePath.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 45344}}";
+			sepNavSelRange = "{104729, 40}";
+			sepNavVisRange = "{104248, 952}";
+		};
+	};
+	96F516220B89DBBD0047BA96 /* DKTextShape.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 2743}}";
+			sepNavSelRange = "{2874, 43}";
+			sepNavVisRange = "{2557, 1221}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516230B89DBBD0047BA96 /* DKTextShape.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 28327}}";
+			sepNavSelRange = "{20342, 28}";
+			sepNavVisRange = "{21573, 1373}";
+			sepNavWindowFrame = "{{1706, -295}, {857, 800}}";
+		};
+	};
+	96F516270B89DBBD0047BA96 /* DKStrokeDash.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 936}}";
+			sepNavSelRange = "{1286, 67}";
+			sepNavVisRange = "{365, 1324}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516280B89DBBD0047BA96 /* DKStrokeDash.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 5486}}";
+			sepNavSelRange = "{3689, 0}";
+			sepNavVisRange = "{3271, 671}";
+		};
+	};
+	96F516290B89DBBD0047BA96 /* DKGradient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 2210}}";
+			sepNavSelRange = "{3887, 0}";
+			sepNavVisRange = "{732, 1364}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5162A0B89DBBD0047BA96 /* DKGradient.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1111, 23907}}";
+			sepNavSelRange = "{27943, 0}";
+			sepNavVisRange = "{26724, 2092}";
+		};
+	};
+	96F5162B0B89DBBD0047BA96 /* DKFillPattern.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 988}}";
+			sepNavSelRange = "{637, 20}";
+			sepNavVisRange = "{99, 1536}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5162C0B89DBBD0047BA96 /* DKFillPattern.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1195, 7397}}";
+			sepNavSelRange = "{10449, 0}";
+			sepNavVisRange = "{9209, 1559}";
+		};
+	};
+	96F5162D0B89DBBD0047BA96 /* DKHatching.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1316}}";
+			sepNavSelRange = "{2185, 0}";
+			sepNavVisRange = "{871, 1394}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5162E0B89DBBD0047BA96 /* DKHatching.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 11494}}";
+			sepNavSelRange = "{13758, 14}";
+			sepNavVisRange = "{13051, 1729}";
+		};
+	};
+	96F5162F0B89DBBD0047BA96 /* DKStroke.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1092}}";
+			sepNavSelRange = "{1159, 12}";
+			sepNavVisRange = "{749, 1298}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516300B89DBBD0047BA96 /* DKStroke.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 6409}}";
+			sepNavSelRange = "{9220, 0}";
+			sepNavVisRange = "{8509, 1507}";
+		};
+	};
+	96F516310B89DBBD0047BA96 /* DKFill.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 798}}";
+			sepNavSelRange = "{625, 0}";
+			sepNavVisRange = "{375, 1389}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516320B89DBBD0047BA96 /* DKFill.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 4784}}";
+			sepNavSelRange = "{5055, 39}";
+			sepNavVisRange = "{5622, 1148}";
+		};
+	};
+	96F516330B89DBBD0047BA96 /* DKStyle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 2704}}";
+			sepNavSelRange = "{4548, 0}";
+			sepNavVisRange = "{1197, 1816}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516340B89DBBD0047BA96 /* DKStyle.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 31005}}";
+			sepNavSelRange = "{22482, 61}";
+			sepNavVisRange = "{21682, 1860}";
+		};
+	};
+	96F516350B89DBBD0047BA96 /* DKStyle+Text.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 702}}";
+			sepNavSelRange = "{1147, 73}";
+			sepNavVisRange = "{381, 1115}";
+		};
+	};
+	96F516360B89DBBD0047BA96 /* DKStyle+Text.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 4693}}";
+			sepNavSelRange = "{2710, 46}";
+			sepNavVisRange = "{2104, 1330}";
+		};
+	};
+	96F516370B89DBBD0047BA96 /* DKRasterizer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 1274}}";
+			sepNavSelRange = "{1712, 31}";
+			sepNavVisRange = "{735, 1059}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516380B89DBBD0047BA96 /* DKRasterizer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 7670}}";
+			sepNavSelRange = "{10303, 0}";
+			sepNavVisRange = "{9665, 1235}";
+		};
+	};
+	96F516390B89DBBD0047BA96 /* DKRasterizerProtocol.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1125, 683}}";
+			sepNavSelRange = "{1595, 0}";
+			sepNavVisRange = "{0, 1997}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5163B0B89DBBD0047BA96 /* DKShapeFactory.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1386}}";
+			sepNavSelRange = "{1510, 14}";
+			sepNavVisRange = "{364, 1530}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5163C0B89DBBD0047BA96 /* DKShapeFactory.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 8498}}";
+			sepNavSelRange = "{7737, 50}";
+			sepNavVisRange = "{7013, 1938}";
+		};
+	};
+	96F5163D0B89DBBD0047BA96 /* DKKnob.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 2171}}";
+			sepNavSelRange = "{2756, 77}";
+			sepNavVisRange = "{1034, 1968}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5163E0B89DBBD0047BA96 /* DKKnob.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 13923}}";
+			sepNavSelRange = "{1489, 126}";
+			sepNavVisRange = "{831, 1191}";
+		};
+	};
+	96F5163F0B89DBBD0047BA96 /* GCInfoFloater.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 624}}";
+			sepNavSelRange = "{445, 40}";
+			sepNavVisRange = "{0, 1043}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516400B89DBBD0047BA96 /* GCInfoFloater.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 2574}}";
+			sepNavSelRange = "{943, 156}";
+			sepNavVisRange = "{1715, 775}";
+		};
+	};
+	96F516420B89DBBD0047BA96 /* DKRandom.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 683}}";
+			sepNavSelRange = "{611, 30}";
+			sepNavVisRange = "{0, 701}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516430B89DBBD0047BA96 /* DKRandom.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 683}}";
+			sepNavSelRange = "{987, 0}";
+			sepNavVisRange = "{0, 998}";
+		};
+	};
+	96F516440B89DBBD0047BA96 /* DKGeometryUtilities.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 910}}";
+			sepNavSelRange = "{1316, 0}";
+			sepNavVisRange = "{1396, 1787}";
+		};
+	};
+	96F516450B89DBBD0047BA96 /* DKGeometryUtilities.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 14664}}";
+			sepNavSelRange = "{16215, 16}";
+			sepNavVisRange = "{15946, 661}";
+		};
+	};
+	96F516460B89DBBD0047BA96 /* NSBezierPath+Editing.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1160, 1287}}";
+			sepNavSelRange = "{2489, 68}";
+			sepNavVisRange = "{637, 2503}";
+		};
+	};
+	96F516470B89DBBD0047BA96 /* NSBezierPath+Editing.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1216, 21099}}";
+			sepNavSelRange = "{17232, 0}";
+			sepNavVisRange = "{16653, 1109}";
+		};
+	};
+	96F516480B89DBBD0047BA96 /* NSBezierPath+Geometry.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 2470}}";
+			sepNavSelRange = "{3057, 19}";
+			sepNavVisRange = "{2393, 1245}";
+		};
+	};
+	96F516490B89DBBD0047BA96 /* NSBezierPath+Geometry.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1125, 32682}}";
+			sepNavSelRange = "{40854, 0}";
+			sepNavVisRange = "{40632, 989}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5164A0B89DBBD0047BA96 /* NSBezierPath+GPC.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1118}}";
+			sepNavSelRange = "{866, 0}";
+			sepNavVisRange = "{702, 1498}";
+		};
+	};
+	96F5164B0B89DBBD0047BA96 /* NSBezierPath+GPC.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 10388}}";
+			sepNavSelRange = "{13438, 0}";
+			sepNavVisRange = "{12730, 1281}";
+		};
+	};
+	96F5164C0B89DBBD0047BA96 /* DKDistortionTransform.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 756}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{241, 1424}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5164D0B89DBBD0047BA96 /* DKDistortionTransform.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1068, 4802}}";
+			sepNavSelRange = "{4380, 63}";
+			sepNavVisRange = "{4870, 580}";
+		};
+	};
+	96F5164E0B89DBBD0047BA96 /* NSDictionary+DeepCopy.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 784}}";
+			sepNavSelRange = "{808, 0}";
+			sepNavVisRange = "{245, 862}";
+		};
+	};
+	96F5164F0B89DBBD0047BA96 /* NSDictionary+DeepCopy.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1029, 1624}}";
+			sepNavSelRange = "{677, 0}";
+			sepNavVisRange = "{241, 902}";
+		};
+	};
+	96F516510B89DBBD0047BA96 /* DKDrawingView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 2119}}";
+			sepNavSelRange = "{2893, 0}";
+			sepNavVisRange = "{3810, 1645}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516520B89DBBD0047BA96 /* DKDrawingView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 27261}}";
+			sepNavSelRange = "{62001, 0}";
+			sepNavVisRange = "{61496, 877}";
+		};
+	};
+	96F516530B89DBBD0047BA96 /* DKDrawingView+Drop.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 3185}}";
+			sepNavSelRange = "{2258, 0}";
+			sepNavVisRange = "{1357, 1394}";
+		};
+	};
+	96F516540B89DBBD0047BA96 /* GCZoomView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1157}}";
+			sepNavSelRange = "{1399, 0}";
+			sepNavVisRange = "{229, 1699}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516550B89DBBE0047BA96 /* GCZoomView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 10062}}";
+			sepNavSelRange = "{1172, 0}";
+			sepNavVisRange = "{536, 1464}";
+		};
+	};
+	96F516560B89DBBE0047BA96 /* DKSelectionPDFView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 624}}";
+			sepNavSelRange = "{581, 0}";
+			sepNavVisRange = "{340, 621}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F516570B89DBBE0047BA96 /* DKSelectionPDFView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 1534}}";
+			sepNavSelRange = "{1220, 32}";
+			sepNavVisRange = "{1157, 371}";
+		};
+	};
+	96F5165B0B89DBBE0047BA96 /* DKDrawingTool.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 1391}}";
+			sepNavSelRange = "{814, 0}";
+			sepNavVisRange = "{552, 1540}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	96F5165C0B89DBBE0047BA96 /* DKDrawingTool.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 10790}}";
+			sepNavSelRange = "{12267, 0}";
+			sepNavVisRange = "{11593, 1615}";
+		};
+	};
+	96F516B70B89DBE60047BA96 /* gpc.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 35308}}";
+			sepNavSelRange = "{13899, 154}";
+			sepNavVisRange = "{17781, 1232}";
+		};
+	};
+	96F516B80B89DBE60047BA96 /* gpc.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 1904}}";
+			sepNavSelRange = "{2967, 15}";
+			sepNavVisRange = "{2079, 1668}";
+		};
+	};
+	96F516B90B89DBE60047BA96 /* CurveFit.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1163, 574}}";
+			sepNavSelRange = "{373, 101}";
+			sepNavVisRange = "{147, 569}";
+		};
+	};
+	96F516D00B89DC050047BA96 /* marker_h_left.tif */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{1695, -300}, {1492, 800}}";
+		};
+	};
+	96F517DB0B8A8A300047BA96 /* DKDrawKit.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 1443}}";
+			sepNavSelRange = "{2747, 0}";
+			sepNavVisRange = "{216, 1155}";
+		};
+	};
+	AA91597A0D9DFECA00905699 /* LogEvent.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1272, 2340}}";
+			sepNavSelRange = "{7949, 43}";
+			sepNavVisRange = "{6985, 1282}";
+		};
+	};
+	AA91597B0D9DFECA00905699 /* LogEvent.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 7943}}";
+			sepNavSelRange = "{18111, 0}";
+			sepNavVisRange = "{17417, 1228}";
+		};
+	};
+	BF0350310F3A93A20042C98B /* NSBezierPath+Text.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1293, 2795}}";
+			sepNavSelRange = "{6481, 111}";
+			sepNavVisRange = "{6093, 877}";
+		};
+	};
+	BF0350320F3A93A20042C98B /* NSBezierPath+Text.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 28340}}";
+			sepNavSelRange = "{18537, 0}";
+			sepNavVisRange = "{18022, 968}";
+		};
+	};
+	BF08267F0E11203500971D3D /* DKCropTool.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 670}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 618}";
+		};
+	};
+	BF0826800E11203500971D3D /* DKCropTool.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 2145}}";
+			sepNavSelRange = "{3440, 0}";
+			sepNavVisRange = "{2555, 1436}";
+		};
+	};
+	BF16150E0D2DBFE900C8BB6A /* DKZigZagStroke.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 686}}";
+			sepNavSelRange = "{343, 0}";
+			sepNavVisRange = "{0, 578}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF16150F0D2DBFE900C8BB6A /* DKZigZagStroke.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 2576}}";
+			sepNavSelRange = "{709, 30}";
+			sepNavVisRange = "{668, 938}";
+		};
+	};
+	BF1615DA0D2DFE3300C8BB6A /* DKZigZagFill.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 505}}";
+			sepNavSelRange = "{335, 0}";
+			sepNavVisRange = "{0, 570}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF1615DB0D2DFE3300C8BB6A /* DKZigZagFill.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 2646}}";
+			sepNavSelRange = "{1842, 0}";
+			sepNavVisRange = "{1279, 1042}";
+		};
+	};
+	BF1619FC0D337F9600C8BB6A /* NSBezierPath+Shapes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 780}}";
+			sepNavSelRange = "{1249, 0}";
+			sepNavVisRange = "{0, 1549}";
+		};
+	};
+	BF1619FD0D337F9600C8BB6A /* NSBezierPath+Shapes.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {993, 5516}}";
+			sepNavSelRange = "{11091, 0}";
+			sepNavVisRange = "{9110, 2018}";
+		};
+	};
+	BF1DBA660E11F4410056EEC9 /* DKArcPath.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1053}}";
+			sepNavSelRange = "{657, 13}";
+			sepNavVisRange = "{541, 937}";
+		};
+	};
+	BF1DBA670E11F4410056EEC9 /* DKArcPath.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 15704}}";
+			sepNavSelRange = "{35162, 40}";
+			sepNavVisRange = "{34483, 1358}";
+		};
+	};
+	BF21DF1A0DD481F80037183C /* DKBezierTextContainer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 675}}";
+			sepNavSelRange = "{67, 0}";
+			sepNavVisRange = "{0, 670}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF21DF1B0DD481F80037183C /* DKBezierTextContainer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 854}}";
+			sepNavSelRange = "{1387, 2}";
+			sepNavVisRange = "{320, 1137}";
+		};
+	};
+	BF2862970E2315FD001CD43F /* DKStyle+SimpleAccess.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 897}}";
+			sepNavSelRange = "{1352, 30}";
+			sepNavVisRange = "{588, 1210}";
+		};
+	};
+	BF2862980E2315FD001CD43F /* DKStyle+SimpleAccess.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 4970}}";
+			sepNavSelRange = "{7171, 0}";
+			sepNavVisRange = "{5526, 1001}";
+		};
+	};
+	BF28649A0E25AFDB001CD43F /* Subclassing Notes.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1134, 685}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1985}";
+		};
+	};
+	BF2865C80E264DCF001CD43F /* DKDrawing+Export.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 962}}";
+			sepNavSelRange = "{1570, 65}";
+			sepNavVisRange = "{542, 1193}";
+		};
+	};
+	BF2865C90E264DCF001CD43F /* DKDrawing+Export.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1209, 6864}}";
+			sepNavSelRange = "{7364, 59}";
+			sepNavVisRange = "{9480, 1067}";
+		};
+	};
+	BF2EE3CC0F6550DE00B8CFFD /* DKAuxiliaryMenus.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 624}}";
+			sepNavSelRange = "{638, 0}";
+			sepNavVisRange = "{160, 934}";
+		};
+	};
+	BF2EE3CD0F6550DE00B8CFFD /* DKAuxiliaryMenus.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 1316}}";
+			sepNavSelRange = "{1347, 0}";
+			sepNavVisRange = "{596, 1217}";
+		};
+	};
+	BF2EE49A0F66011C00B8CFFD /* DKUnitTests */ = {
+		activeExec = 0;
+	};
+	BF2EE4B10F6602A400B8CFFD /* TestBSPStorage.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 952}}";
+			sepNavSelRange = "{1146, 70}";
+			sepNavVisRange = "{313, 1748}";
+		};
+	};
+	BF2EE4B20F6602A400B8CFFD /* TestBSPStorage.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 13230}}";
+			sepNavSelRange = "{23825, 0}";
+			sepNavVisRange = "{23449, 554}";
+		};
+	};
+	BF33FD201050A8EA00BC6B90 /* DKQuartzCache.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 676}}";
+			sepNavSelRange = "{531, 78}";
+			sepNavVisRange = "{74, 956}";
+		};
+	};
+	BF33FD211050A8EA00BC6B90 /* DKQuartzCache.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1181, 2327}}";
+			sepNavSelRange = "{1401, 0}";
+			sepNavVisRange = "{158, 1376}";
+		};
+	};
+	BF33FD831050D0A100BC6B90 /* DKRetriggerableTimer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 611}}";
+			sepNavSelRange = "{294, 0}";
+			sepNavVisRange = "{30, 1112}";
+		};
+	};
+	BF33FD841050D0A100BC6B90 /* DKRetriggerableTimer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 1651}}";
+			sepNavSelRange = "{1371, 0}";
+			sepNavVisRange = "{0, 704}";
+		};
+	};
+	BF33FD9C1050DFE500BC6B90 /* DKHandle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 754}}";
+			sepNavSelRange = "{781, 64}";
+			sepNavVisRange = "{0, 1269}";
+		};
+	};
+	BF33FD9D1050DFE500BC6B90 /* DKHandle.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 3718}}";
+			sepNavSelRange = "{4867, 63}";
+			sepNavVisRange = "{4739, 1143}";
+		};
+	};
+	BF33FDA21050E6BC00BC6B90 /* DKBoundingRectHandle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 683}}";
+			sepNavSelRange = "{303, 68}";
+			sepNavVisRange = "{0, 371}";
+		};
+	};
+	BF33FDA31050E6BC00BC6B90 /* DKBoundingRectHandle.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1443}}";
+			sepNavSelRange = "{1238, 0}";
+			sepNavVisRange = "{0, 640}";
+		};
+	};
+	BF33FDA81050EA8100BC6B90 /* DKPathPointHandle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 695}}";
+			sepNavSelRange = "{341, 0}";
+			sepNavVisRange = "{0, 561}";
+		};
+	};
+	BF33FDA91050EA8100BC6B90 /* DKPathPointHandle.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 2275}}";
+			sepNavSelRange = "{904, 0}";
+			sepNavVisRange = "{772, 526}";
+		};
+	};
+	BF33FDAE1050EC9900BC6B90 /* DKRotationHandle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 699}}";
+			sepNavSelRange = "{278, 0}";
+			sepNavVisRange = "{0, 285}";
+		};
+	};
+	BF33FDAF1050EC9900BC6B90 /* DKRotationHandle.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 832}}";
+			sepNavSelRange = "{720, 0}";
+			sepNavVisRange = "{164, 565}";
+		};
+	};
+	BF33FDB41050ED8300BC6B90 /* DKTargetHandle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 699}}";
+			sepNavSelRange = "{270, 0}";
+			sepNavVisRange = "{0, 277}";
+		};
+	};
+	BF33FDB51050ED8300BC6B90 /* DKTargetHandle.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1209}}";
+			sepNavSelRange = "{431, 0}";
+			sepNavVisRange = "{193, 852}";
+		};
+	};
+	BF3496810FE38A5400D02C94 /* DKDrawableShape+Utilities.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 675}}";
+			sepNavSelRange = "{615, 103}";
+			sepNavVisRange = "{0, 787}";
+		};
+	};
+	BF3496820FE38A5400D02C94 /* DKDrawableShape+Utilities.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 2660}}";
+			sepNavSelRange = "{5697, 0}";
+			sepNavVisRange = "{4505, 1790}";
+		};
+	};
+	BF3575910DEB87E400C9B16D /* NSAffineTransform+DKAdditions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 675}}";
+			sepNavSelRange = "{765, 12}";
+			sepNavVisRange = "{0, 860}";
+		};
+	};
+	BF3575920DEB87E400C9B16D /* NSAffineTransform+DKAdditions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 1176}}";
+			sepNavSelRange = "{357, 61}";
+			sepNavVisRange = "{0, 1542}";
+		};
+	};
+	BF3576420DEBD2C600C9B16D /* NSAttributedString+DKAdditions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1356, 897}}";
+			sepNavSelRange = "{914, 0}";
+			sepNavVisRange = "{0, 1051}";
+		};
+	};
+	BF3576430DEBD2C600C9B16D /* NSAttributedString+DKAdditions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 9058}}";
+			sepNavSelRange = "{11109, 0}";
+			sepNavVisRange = "{9656, 1290}";
+		};
+	};
+	BF3725AB0EDE312C00999EAF /* DKImageDataManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1272, 845}}";
+			sepNavSelRange = "{1882, 0}";
+			sepNavVisRange = "{228, 1648}";
+		};
+	};
+	BF3725AC0EDE312C00999EAF /* DKImageDataManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 4615}}";
+			sepNavSelRange = "{7001, 0}";
+			sepNavVisRange = "{6744, 907}";
+		};
+	};
+	BF3726150EDEB5A300999EAF /* DKKeyedUnarchiver.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 675}}";
+			sepNavSelRange = "{381, 12}";
+			sepNavVisRange = "{0, 909}";
+		};
+	};
+	BF3726160EDEB5A300999EAF /* DKKeyedUnarchiver.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 567}}";
+			sepNavSelRange = "{348, 0}";
+			sepNavVisRange = "{0, 488}";
+		};
+	};
+	BF471C650D876753003753DF /* GCOneShotEffectTimer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1482}}";
+			sepNavSelRange = "{0, 724}";
+			sepNavVisRange = "{579, 1201}";
+		};
+	};
+	BF471C660D876753003753DF /* GCOneShotEffectTimer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 793}}";
+			sepNavSelRange = "{605, 0}";
+			sepNavVisRange = "{550, 1568}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF5596D00DCC28F200FF5A74 /* GCThreadQueue.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 675}}";
+			sepNavSelRange = "{322, 0}";
+			sepNavVisRange = "{0, 543}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF5596D10DCC28F200FF5A74 /* GCThreadQueue.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 1036}}";
+			sepNavSelRange = "{1075, 0}";
+			sepNavVisRange = "{590, 535}";
+		};
+	};
+	BF58D6010C7D6E27009B85CC /* DKLayerGroup.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 1612}}";
+			sepNavSelRange = "{1013, 15}";
+			sepNavVisRange = "{1984, 1556}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF58D6020C7D6E27009B85CC /* DKLayerGroup.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 20865}}";
+			sepNavSelRange = "{50503, 20}";
+			sepNavVisRange = "{49786, 1288}";
+		};
+	};
+	BF618B860EDBCFEC005FAC2E /* DKTextPath.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 1898}}";
+			sepNavSelRange = "{1665, 0}";
+			sepNavVisRange = "{958, 1300}";
+		};
+	};
+	BF618B870EDBCFEC005FAC2E /* DKTextPath.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1104, 19201}}";
+			sepNavSelRange = "{16158, 0}";
+			sepNavVisRange = "{15217, 778}";
+		};
+	};
+	BF618CA40EDCD481005FAC2E /* DKBezierLayoutManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 404}}";
+			sepNavSelRange = "{274, 0}";
+			sepNavVisRange = "{0, 572}";
+		};
+	};
+	BF618CA50EDCD481005FAC2E /* DKBezierLayoutManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1885}}";
+			sepNavSelRange = "{2477, 0}";
+			sepNavVisRange = "{1808, 1038}";
+		};
+	};
+	BF6336730BABA3AF001B5901 /* DKRastGroup.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 1248}}";
+			sepNavSelRange = "{1583, 22}";
+			sepNavVisRange = "{636, 1297}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF6336740BABA3AF001B5901 /* DKRastGroup.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 13260}}";
+			sepNavSelRange = "{28110, 36}";
+			sepNavVisRange = "{27463, 1093}";
+		};
+	};
+	BF633B6E0BAE076E001B5901 /* DKDrawableObject+Metadata.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 1560}}";
+			sepNavSelRange = "{991, 46}";
+			sepNavVisRange = "{904, 1560}";
+		};
+	};
+	BF633B6F0BAE076E001B5901 /* DKDrawableObject+Metadata.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 8866}}";
+			sepNavSelRange = "{12963, 0}";
+			sepNavVisRange = "{12846, 997}";
+		};
+	};
+	BF633DDC0BAFEF4E001B5901 /* DKArrowStroke.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 2352}}";
+			sepNavSelRange = "{3394, 75}";
+			sepNavVisRange = "{3100, 1730}";
+		};
+	};
+	BF633DDD0BAFEF4E001B5901 /* DKArrowStroke.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 14154}}";
+			sepNavSelRange = "{18173, 0}";
+			sepNavVisRange = "{17504, 1036}";
+		};
+	};
+	BF633E4A10F40FCD00A151D5 /* GCUndoManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 4212}}";
+			sepNavSelRange = "{6819, 31}";
+			sepNavVisRange = "{2839, 1274}";
+		};
+	};
+	BF633E4B10F40FCD00A151D5 /* GCUndoManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1195, 19045}}";
+			sepNavSelRange = "{16411, 42}";
+			sepNavVisRange = "{17666, 970}";
+		};
+	};
+	BF633F150BB144D6001B5901 /* DKCategoryManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 3900}}";
+			sepNavSelRange = "{4378, 56}";
+			sepNavVisRange = "{3371, 1388}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF633F160BB144D6001B5901 /* DKCategoryManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 39312}}";
+			sepNavSelRange = "{16111, 22}";
+			sepNavVisRange = "{15575, 1007}";
+		};
+	};
+	BF65E1D10FBA5F0700E93B46 /* DKGreekingLayoutManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 675}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 729}";
+		};
+	};
+	BF65E1D20FBA5F0700E93B46 /* DKGreekingLayoutManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1134, 1820}}";
+			sepNavSelRange = "{1287, 0}";
+			sepNavVisRange = "{659, 1850}";
+		};
+	};
+	BF7002860BE9F98F00080B21 /* DKGradientExtensions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 871}}";
+			sepNavSelRange = "{66, 0}";
+			sepNavVisRange = "{662, 966}";
+		};
+	};
+	BF7002870BE9F98F00080B21 /* DKGradientExtensions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {991, 3906}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1415, 1314}";
+		};
+	};
+	BF7004120BEE018800080B21 /* DKDrawkitInspectorBase.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 689}}";
+			sepNavSelRange = "{597, 0}";
+			sepNavVisRange = "{551, 1184}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF7004130BEE018800080B21 /* DKDrawkitInspectorBase.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 3029}}";
+			sepNavSelRange = "{4037, 59}";
+			sepNavVisRange = "{3710, 727}";
+		};
+	};
+	BF70D1650BB75E240012D215 /* NSColor+DKAdditions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 689}}";
+			sepNavSelRange = "{1894, 9}";
+			sepNavVisRange = "{384, 1556}";
+		};
+	};
+	BF70D1660BB75E240012D215 /* NSColor+DKAdditions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 9672}}";
+			sepNavSelRange = "{23423, 0}";
+			sepNavVisRange = "{22276, 1700}";
+		};
+	};
+	BF86F4610E0C8E0200920EFF /* DRAWKIT_LICENSING.TXT */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 669}}";
+			sepNavSelRange = "{2077, 0}";
+			sepNavVisRange = "{0, 2077}";
+		};
+	};
+	BF88EEFD0C11B90900A23755 /* DKUndoManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1300}}";
+			sepNavSelRange = "{561, 13}";
+			sepNavVisRange = "{0, 1140}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF88EEFE0C11B90900A23755 /* DKUndoManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 4342}}";
+			sepNavSelRange = "{938, 0}";
+			sepNavVisRange = "{0, 1244}";
+		};
+	};
+	BF88EF990C12896C00A23755 /* bezier-utils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 1358}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1605}";
+		};
+	};
+	BF88EFBD0C128BF700A23755 /* point.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 4116}}";
+			sepNavSelRange = "{258, 14}";
+			sepNavVisRange = "{0, 680}";
+		};
+	};
+	BF88EFC00C128C0A00A23755 /* math-utils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 1302}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2290, 1587}";
+		};
+	};
+	BF88EFDE0C128C9000A23755 /* rotate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {658, 1246}}";
+			sepNavSelRange = "{284, 15}";
+			sepNavVisRange = "{0, 351}";
+		};
+	};
+	BF88F5C50C1907CE00A23755 /* DKDrawingToolProtocol.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 884}}";
+			sepNavSelRange = "{677, 0}";
+			sepNavVisRange = "{585, 2540}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF88FA1E0C1A635100A23755 /* DKObjectCreationTool.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 1014}}";
+			sepNavSelRange = "{885, 25}";
+			sepNavVisRange = "{550, 951}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF88FA1F0C1A635100A23755 /* DKObjectCreationTool.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 9360}}";
+			sepNavSelRange = "{18742, 148}";
+			sepNavVisRange = "{19755, 1861}";
+		};
+	};
+	BF88FA640C1A66A000A23755 /* DKPathInsertDeleteTool.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 741}}";
+			sepNavSelRange = "{1103, 33}";
+			sepNavVisRange = "{134, 1231}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF88FA650C1A66A000A23755 /* DKPathInsertDeleteTool.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 2691}}";
+			sepNavSelRange = "{2769, 147}";
+			sepNavVisRange = "{3992, 989}";
+		};
+	};
+	BF89C09E0E20893900FD9D4A /* DKRegularPolygonPath.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 1105}}";
+			sepNavSelRange = "{1861, 32}";
+			sepNavVisRange = "{680, 1209}";
+		};
+	};
+	BF89C09F0E20893900FD9D4A /* DKRegularPolygonPath.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 14339}}";
+			sepNavSelRange = "{22739, 668}";
+			sepNavVisRange = "{22572, 1761}";
+		};
+	};
+	BF8C006B0E400B27004206C9 /* DKRouteFinder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 1316}}";
+			sepNavSelRange = "{1623, 36}";
+			sepNavVisRange = "{1160, 1907}";
+		};
+	};
+	BF8C006C0E400B27004206C9 /* DKRouteFinder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 13664}}";
+			sepNavSelRange = "{13602, 36}";
+			sepNavVisRange = "{14486, 1041}";
+		};
+	};
+	BF94D5C70D8B5497009249A7 /* DKUniqueID.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 687}}";
+			sepNavSelRange = "{321, 9}";
+			sepNavVisRange = "{0, 595}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF94D5C80D8B5497009249A7 /* DKUniqueID.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1068, 642}}";
+			sepNavSelRange = "{154, 27}";
+			sepNavVisRange = "{0, 403}";
+		};
+	};
+	BF94D5ED0D8B5DEE009249A7 /* DKStyleRegistry.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 3654}}";
+			sepNavSelRange = "{4022, 0}";
+			sepNavVisRange = "{3606, 1792}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF94D5EE0D8B5DEE009249A7 /* DKStyleRegistry.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 20608}}";
+			sepNavSelRange = "{32098, 0}";
+			sepNavVisRange = "{31235, 1557}";
+		};
+	};
+	BF9C04740FD7786B0098E3D1 /* DKPasteboardInfo.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1125, 676}}";
+			sepNavSelRange = "{840, 35}";
+			sepNavVisRange = "{261, 999}";
+		};
+	};
+	BF9C04750FD7786B0098E3D1 /* DKPasteboardInfo.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 2184}}";
+			sepNavSelRange = "{1414, 0}";
+			sepNavVisRange = "{1067, 928}";
+		};
+	};
+	BF9C49E00D90CC1A004B5563 /* DKTextAdornment.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1125, 25051}}";
+			sepNavSelRange = "{6265, 51}";
+			sepNavVisRange = "{8814, 1067}";
+		};
+	};
+	BF9C49E10D90CC1A004B5563 /* DKTextAdornment.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 3341}}";
+			sepNavSelRange = "{5273, 44}";
+			sepNavVisRange = "{2289, 966}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF9C49E60D90CC2D004B5563 /* DKDrawingDocument.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 14885}}";
+			sepNavSelRange = "{37616, 17}";
+			sepNavVisRange = "{36929, 1498}";
+		};
+	};
+	BF9C49E70D90CC2D004B5563 /* DKDrawingDocument.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1111, 1261}}";
+			sepNavSelRange = "{1834, 0}";
+			sepNavVisRange = "{685, 1566}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF9C49F30D90CC47004B5563 /* DKImageAdornment.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 5603}}";
+			sepNavSelRange = "{6979, 44}";
+			sepNavVisRange = "{7856, 1601}";
+		};
+	};
+	BF9C49F40D90CC47004B5563 /* DKImageAdornment.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1131}}";
+			sepNavSelRange = "{1045, 0}";
+			sepNavVisRange = "{1182, 1157}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BF9D8224100DBAD90068764B /* DKToolRegistry.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1181, 949}}";
+			sepNavSelRange = "{1262, 31}";
+			sepNavVisRange = "{654, 1333}";
+		};
+	};
+	BF9D8225100DBAD90068764B /* DKToolRegistry.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 5590}}";
+			sepNavSelRange = "{5357, 0}";
+			sepNavVisRange = "{436, 1695}";
+		};
+	};
+	BFA1BE120C361E19005667B7 /* DKDrawableShape+Hotspots.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1599}}";
+			sepNavSelRange = "{621, 17}";
+			sepNavVisRange = "{558, 1152}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFA1BE130C361E19005667B7 /* DKDrawableShape+Hotspots.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 3848}}";
+			sepNavSelRange = "{2681, 0}";
+			sepNavVisRange = "{2064, 1213}";
+		};
+	};
+	BFA289F21067B1BC00804544 /* DKMetadataItem.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 2366}}";
+			sepNavSelRange = "{4314, 33}";
+			sepNavVisRange = "{817, 1940}";
+		};
+	};
+	BFA289F31067B1BC00804544 /* DKMetadataItem.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 15314}}";
+			sepNavSelRange = "{19056, 12}";
+			sepNavVisRange = "{18436, 1240}";
+		};
+	};
+	BFA961D30D72813400D976CB /* DKDrawKitMacros.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 767}}";
+			sepNavSelRange = "{473, 124}";
+			sepNavVisRange = "{105, 1036}";
+		};
+	};
+	BFA967BD0D76133200D976CB /* DKDrawingView+Drop.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 579}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1493}";
+		};
+	};
+	BFAE81300C6BE989002D693C /* DKShapeCluster.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 675}}";
+			sepNavSelRange = "{598, 0}";
+			sepNavVisRange = "{0, 1704}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFAE81310C6BE989002D693C /* DKShapeCluster.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 3640}}";
+			sepNavSelRange = "{5249, 0}";
+			sepNavVisRange = "{4206, 1331}";
+		};
+	};
+	BFB88318116F4F4800CA7B01 /* NSImage+DKAdditions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 579}}";
+			sepNavSelRange = "{396, 0}";
+			sepNavVisRange = "{0, 402}";
+		};
+	};
+	BFB88319116F4F4800CA7B01 /* NSImage+DKAdditions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 1196}}";
+			sepNavSelRange = "{2807, 0}";
+			sepNavVisRange = "{1850, 1258}";
+		};
+	};
+	BFB885F7117D6A4800CA7B01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF58D6020C7D6E27009B85CC /* DKLayerGroup.m */;
+		name = "DKLayerGroup.m: 1607";
+		rLen = 42;
+		rLoc = 51260;
+		rType = 0;
+		vrLen = 1197;
+		vrLoc = 51300;
+	};
+	BFB886D9117ED36500CA7B01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFA967BD0D76133200D976CB /* DKDrawingView+Drop.h */;
+		name = "DKDrawingView+Drop.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1493;
+		vrLoc = 0;
+	};
+	BFB886DA117ED36500CA7B01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516530B89DBBD0047BA96 /* DKDrawingView+Drop.m */;
+		name = "DKDrawingView+Drop.m: 66";
+		rLen = 0;
+		rLoc = 2258;
+		rType = 0;
+		vrLen = 1394;
+		vrLoc = 1357;
+	};
+	BFB886DB117ED36500CA7B01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516330B89DBBD0047BA96 /* DKStyle.h */;
+		name = "DKStyle.h: 150";
+		rLen = 0;
+		rLoc = 4548;
+		rType = 0;
+		vrLen = 1391;
+		vrLoc = 3792;
+	};
+	BFB886DC117ED36500CA7B01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516340B89DBBD0047BA96 /* DKStyle.m */;
+		name = "DKStyle.m: 1285";
+		rLen = 0;
+		rLoc = 43800;
+		rType = 0;
+		vrLen = 1621;
+		vrLoc = 42646;
+	};
+	BFB886DD117ED36500CA7B01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F5161A0B89DBBD0047BA96 /* DKImageShape.h */;
+		name = "DKImageShape.h: 17";
+		rLen = 19;
+		rLoc = 606;
+		rType = 0;
+		vrLen = 1702;
+		vrLoc = 659;
+	};
+	BFB886DE117ED36500CA7B01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516380B89DBBD0047BA96 /* DKRasterizer.m */;
+		name = "DKRasterizer.m: 322";
+		rLen = 0;
+		rLoc = 10303;
+		rType = 0;
+		vrLen = 1235;
+		vrLoc = 9665;
+	};
+	BFB886E0117ED36500CA7B01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516170B89DBBD0047BA96 /* DKDrawableShape.m */;
+		name = "DKDrawableShape.m: 3690";
+		rLen = 61;
+		rLoc = 116356;
+		rType = 0;
+		vrLen = 1214;
+		vrLoc = 116248;
+	};
+	BFB886E1117ED36500CA7B01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516080B89DBBC0047BA96 /* DKObjectOwnerLayer.m */;
+		name = "DKObjectOwnerLayer.m: 3220";
+		rLen = 65;
+		rLoc = 106546;
+		rType = 0;
+		vrLen = 1496;
+		vrLoc = 103236;
+	};
+	BFBFD0670D9A130100680E6B /* DKGradient+UISupport.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 715}}";
+			sepNavSelRange = "{960, 0}";
+			sepNavVisRange = "{0, 997}";
+		};
+	};
+	BFBFD0680D9A130100680E6B /* DKGradient+UISupport.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 4030}}";
+			sepNavSelRange = "{6825, 0}";
+			sepNavVisRange = "{5212, 1812}";
+		};
+	};
+	BFBFD36A0D9B4D5000680E6B /* DKRuntimeHelper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 540}}";
+			sepNavSelRange = "{386, 54}";
+			sepNavVisRange = "{0, 649}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFBFD36B0D9B4D5000680E6B /* DKRuntimeHelper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 2418}}";
+			sepNavSelRange = "{301, 30}";
+			sepNavVisRange = "{0, 1236}";
+		};
+	};
+	BFBFD3C10D9B607600680E6B /* NSMutableArray+DKAdditions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 675}}";
+			sepNavSelRange = "{333, 25}";
+			sepNavVisRange = "{0, 383}";
+		};
+	};
+	BFBFD3C20D9B607600680E6B /* NSMutableArray+DKAdditions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 686}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 663}";
+		};
+	};
+	BFC243570BAA499C00A1AA0F /* DKCIFilterRastGroup.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 784}}";
+			sepNavSelRange = "{759, 43}";
+			sepNavVisRange = "{0, 1606}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFC243580BAA499C00A1AA0F /* DKCIFilterRastGroup.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 5320}}";
+			sepNavSelRange = "{5891, 0}";
+			sepNavVisRange = "{5099, 898}";
+		};
+	};
+	BFC5842B0F1EB2B5005512CD /* DKBSPDirectObjectStorage.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 1066}}";
+			sepNavSelRange = "{388, 0}";
+			sepNavVisRange = "{34, 1230}";
+		};
+	};
+	BFC5842C0F1EB2B5005512CD /* DKBSPDirectObjectStorage.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 9737}}";
+			sepNavSelRange = "{11084, 0}";
+			sepNavVisRange = "{10705, 852}";
+		};
+	};
+	BFC804320FAFD5DF00705ADB /* DKUnarchivingHelper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 670}}";
+			sepNavSelRange = "{325, 40}";
+			sepNavVisRange = "{0, 1020}";
+		};
+	};
+	BFC804330FAFD5DF00705ADB /* DKUnarchivingHelper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 2665}}";
+			sepNavSelRange = "{6123, 0}";
+			sepNavVisRange = "{5438, 1059}";
+		};
+	};
+	BFCD54650D863865001A1A4E /* DKCommonTypes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 1430}}";
+			sepNavSelRange = "{821, 21}";
+			sepNavVisRange = "{2586, 1331}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFCE7AB60F5A7D3400C20648 /* DKDrawableContainerProtocol.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 699}}";
+			sepNavSelRange = "{881, 0}";
+			sepNavVisRange = "{0, 1151}";
+		};
+	};
+	BFD211AA0E2C28C80081C007 /* NSBezierPath-OAExtensions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2058, 47740}}";
+			sepNavSelRange = "{115661, 43}";
+			sepNavVisRange = "{114479, 3178}";
+		};
+	};
+	BFD211AB0E2C28C80081C007 /* NSBezierPath-OAExtensions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1440, 2590}}";
+			sepNavSelRange = "{6842, 19}";
+			sepNavVisRange = "{5613, 1806}";
+		};
+	};
+	BFD211AC0E2C28C80081C007 /* NSBezierPath-OAInternal.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1266, 742}}";
+			sepNavSelRange = "{2112, 127}";
+			sepNavVisRange = "{610, 2108}";
+		};
+	};
+	BFD211C70E2C2CBD0081C007 /* NSBezierPath+Combinatorial.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1116, 6818}}";
+			sepNavSelRange = "{5298, 0}";
+			sepNavVisRange = "{4479, 1577}";
+		};
+	};
+	BFD211C80E2C2CBD0081C007 /* NSBezierPath+Combinatorial.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1111, 793}}";
+			sepNavSelRange = "{578, 55}";
+			sepNavVisRange = "{0, 1031}";
+		};
+	};
+	BFD2349B0DA24D6500FB629C /* DKViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 2366}}";
+			sepNavSelRange = "{3651, 17}";
+			sepNavVisRange = "{1987, 1263}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFD2349C0DA24D6500FB629C /* DKViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 19422}}";
+			sepNavSelRange = "{24732, 409}";
+			sepNavVisRange = "{24306, 1031}";
+		};
+	};
+	BFD236590DA31AC300FB629C /* DKDrawing+Paper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 568}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1060}";
+		};
+	};
+	BFD2365A0DA31AC300FB629C /* DKDrawing+Paper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 2327}}";
+			sepNavSelRange = "{586, 576}";
+			sepNavVisRange = "{0, 1448}";
+		};
+	};
+	BFD8BB9F0D98B8B80085549B /* DKZoomTool.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 559}}";
+			sepNavSelRange = "{849, 0}";
+			sepNavVisRange = "{230, 1001}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFD8BBA00D98B8B80085549B /* DKZoomTool.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 3705}}";
+			sepNavSelRange = "{4466, 11}";
+			sepNavVisRange = "{3534, 1301}";
+		};
+	};
+	BFDB09540C24FF180034C27C /* DKPathDecorator.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1404}}";
+			sepNavSelRange = "{1157, 15}";
+			sepNavVisRange = "{519, 961}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFDB09550C24FF180034C27C /* DKPathDecorator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1111, 10049}}";
+			sepNavSelRange = "{889, 60}";
+			sepNavVisRange = "{548, 923}";
+		};
+	};
+	BFDB118B0C2AC7320034C27C /* NSShadow+Scaling.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 728}}";
+			sepNavSelRange = "{988, 0}";
+			sepNavVisRange = "{158, 1595}";
+		};
+	};
+	BFDB118C0C2AC7320034C27C /* NSShadow+Scaling.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 2561}}";
+			sepNavSelRange = "{4040, 0}";
+			sepNavVisRange = "{2869, 1548}";
+		};
+	};
+	BFDB12300C2B77C40034C27C /* DKObjectDrawingLayer+Duplication.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 675}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1284}";
+		};
+	};
+	BFDB12310C2B77C40034C27C /* DKObjectDrawingLayer+Duplication.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 3276}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2170}";
+		};
+	};
+	BFDB142F0C2D03FD0034C27C /* NSImage+Tracing.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 1638}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1906, 1342}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFDB14300C2D03FD0034C27C /* NSImage+Tracing.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 8385}}";
+			sepNavSelRange = "{3790, 113}";
+			sepNavVisRange = "{6018, 1267}";
+		};
+	};
+	BFDB18570C2EBD700034C27C /* DKImageShape+Vectorization.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 952}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{640, 1737}";
+		};
+	};
+	BFDB18580C2EBD700034C27C /* DKImageShape+Vectorization.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 3016}}";
+			sepNavSelRange = "{5189, 10}";
+			sepNavVisRange = "{4460, 1577}";
+		};
+	};
+	BFDB18D30C2F5C580034C27C /* DKColourQuantizer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1125, 1105}}";
+			sepNavSelRange = "{2503, 0}";
+			sepNavVisRange = "{1400, 1609}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFDB18D40C2F5C580034C27C /* DKColourQuantizer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 7042}}";
+			sepNavSelRange = "{10135, 0}";
+			sepNavVisRange = "{9598, 1074}";
+		};
+	};
+	BFE1B8B10FA18D3400BD6EC6 /* DKTextSubstitutor.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 1287}}";
+			sepNavSelRange = "{285, 16}";
+			sepNavVisRange = "{0, 1020}";
+		};
+	};
+	BFE1B8B20FA18D3400BD6EC6 /* DKTextSubstitutor.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 8645}}";
+			sepNavSelRange = "{14503, 0}";
+			sepNavVisRange = "{14585, 1130}";
+		};
+	};
+	BFE3A8C51180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F5160A0B89DBBC0047BA96 /* DKObjectDrawingLayer.m */;
+		name = "DKObjectDrawingLayer.m: 3618";
+		rLen = 0;
+		rLoc = 117165;
+		rType = 0;
+		vrLen = 1642;
+		vrLoc = 116804;
+	};
+	BFE3A8C61180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFF5C9AF0DF0E39F00A6BB74 /* DKLayer+Metadata.m */;
+		name = "DKLayer+Metadata.m: 424";
+		rLen = 28;
+		rLoc = 11177;
+		rType = 0;
+		vrLen = 1702;
+		vrLoc = 10851;
+	};
+	BFE3A8C71180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516120B89DBBD0047BA96 /* DKLayer.m */;
+		name = "DKLayer.m: 2166";
+		rLen = 0;
+		rLoc = 73569;
+		rType = 0;
+		vrLen = 1404;
+		vrLoc = 69951;
+	};
+	BFE3A8C81180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F515FB0B89DBBC0047BA96 /* DKDrawing.m */;
+		name = "DKDrawing.m: 3006";
+		rLen = 0;
+		rLoc = 106386;
+		rType = 0;
+		vrLen = 1545;
+		vrLoc = 104906;
+	};
+	BFE3A8C91180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFA289F21067B1BC00804544 /* DKMetadataItem.h */;
+		name = "DKMetadataItem.h: 133";
+		rLen = 33;
+		rLoc = 4314;
+		rType = 0;
+		vrLen = 1940;
+		vrLoc = 817;
+	};
+	BFE3A8CA1180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFA289F31067B1BC00804544 /* DKMetadataItem.m */;
+		name = "DKMetadataItem.m: 629";
+		rLen = 31;
+		rLoc = 13821;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 26185;
+	};
+	BFE3A8CB1180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFF5C9B00DF0E39F00A6BB74 /* DKLayer+Metadata.h */;
+		name = "DKLayer+Metadata.h: 35";
+		rLen = 0;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 1441;
+		vrLoc = 757;
+	};
+	BFE3A8CC1180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516140B89DBBD0047BA96 /* DKDrawableObject.h */;
+		name = "DKDrawableObject.h: 63";
+		rLen = 27;
+		rLoc = 2945;
+		rType = 0;
+		vrLen = 1516;
+		vrLoc = 8521;
+	};
+	BFE3A8CD1180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516150B89DBBD0047BA96 /* DKDrawableObject.m */;
+		name = "DKDrawableObject.m: 3397";
+		rLen = 32;
+		rLoc = 116972;
+		rType = 0;
+		vrLen = 1315;
+		vrLoc = 117154;
+	};
+	BFE3A8CE1180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF633B6E0BAE076E001B5901 /* DKDrawableObject+Metadata.h */;
+		name = "DKDrawableObject+Metadata.h: 31";
+		rLen = 46;
+		rLoc = 991;
+		rType = 0;
+		vrLen = 1560;
+		vrLoc = 904;
+	};
+	BFE3A8CF1180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF633B6F0BAE076E001B5901 /* DKDrawableObject+Metadata.m */;
+		name = "DKDrawableObject+Metadata.m: 345";
+		rLen = 46;
+		rLoc = 10173;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 9955;
+	};
+	BFE3A8D01180054000938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF633B6F0BAE076E001B5901 /* DKDrawableObject+Metadata.m */;
+		name = "DKDrawableObject+Metadata.m: 168";
+		rLen = 20;
+		rLoc = 4661;
+		rType = 0;
+		vrLen = 1196;
+		vrLoc = 4087;
+	};
+	BFE3A97A1181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F5165B0B89DBBE0047BA96 /* DKDrawingTool.h */;
+		name = "DKDrawingTool.h: 26";
+		rLen = 0;
+		rLoc = 814;
+		rType = 0;
+		vrLen = 1540;
+		vrLoc = 552;
+	};
+	BFE3A97B1181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF88FA1E0C1A635100A23755 /* DKObjectCreationTool.h */;
+		name = "DKObjectCreationTool.h: 32";
+		rLen = 25;
+		rLoc = 885;
+		rType = 0;
+		vrLen = 951;
+		vrLoc = 550;
+	};
+	BFE3A97C1181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFEAEEA90DAB00BF002972BC /* DKToolController.h */;
+		name = "DKToolController.h: 60";
+		rLen = 0;
+		rLoc = 2213;
+		rType = 0;
+		vrLen = 1465;
+		vrLoc = 518;
+	};
+	BFE3A97D1181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFD2349B0DA24D6500FB629C /* DKViewController.h */;
+		name = "DKViewController.h: 108";
+		rLen = 17;
+		rLoc = 3651;
+		rType = 0;
+		vrLen = 1263;
+		vrLoc = 1987;
+	};
+	BFE3A97E1181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516020B89DBBC0047BA96 /* DKGuideLayer.h */;
+		name = "DKGuideLayer.h: 120";
+		rLen = 0;
+		rLoc = 3617;
+		rType = 0;
+		vrLen = 1380;
+		vrLoc = 1025;
+	};
+	BFE3A97F1181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516080B89DBBC0047BA96 /* DKObjectOwnerLayer.m */;
+		name = "DKObjectOwnerLayer.m: 2983";
+		rLen = 19;
+		rLoc = 99504;
+		rType = 0;
+		vrLen = 1239;
+		vrLoc = 98838;
+	};
+	BFE3A9801181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED210B0F0F92CF004CFC16 /* DKBSPObjectStorage.m */;
+		name = "DKBSPObjectStorage.m: 864";
+		rLen = 18;
+		rLoc = 18676;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 18288;
+	};
+	BFE3A9811181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED1F1C0F0E5251004CFC16 /* DKLinearObjectStorage.h */;
+		name = "DKLinearObjectStorage.h: 35";
+		rLen = 0;
+		rLoc = 1069;
+		rType = 0;
+		vrLen = 1401;
+		vrLoc = 0;
+	};
+	BFE3A9821181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED1F1D0F0E5251004CFC16 /* DKLinearObjectStorage.m */;
+		name = "DKLinearObjectStorage.m: 262";
+		rLen = 20;
+		rLoc = 6438;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 5778;
+	};
+	BFE3A9831181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED1F100F0E4D78004CFC16 /* DKObjectStorageProtocol.h */;
+		name = "DKObjectStorageProtocol.h: 64";
+		rLen = 92;
+		rLoc = 2292;
+		rType = 0;
+		vrLen = 2229;
+		vrLoc = 1917;
+	};
+	BFE3A9841181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516070B89DBBC0047BA96 /* DKObjectOwnerLayer.h */;
+		name = "DKObjectOwnerLayer.h: 106";
+		rLen = 130;
+		rLoc = 5103;
+		rType = 0;
+		vrLen = 987;
+		vrLoc = 8424;
+	};
+	BFE3A9851181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516090B89DBBC0047BA96 /* DKObjectDrawingLayer.h */;
+		name = "DKObjectDrawingLayer.h: 201";
+		rLen = 0;
+		rLoc = 7546;
+		rType = 0;
+		vrLen = 2075;
+		vrLoc = 1235;
+	};
+	BFE3A9861181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFEAF6D90DB363F9002972BC /* release notes */;
+		name = "release notes: 114";
+		rLen = 0;
+		rLoc = 11543;
+		rType = 0;
+		vrLen = 4029;
+		vrLoc = 0;
+	};
+	BFE3A9871181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFA289F31067B1BC00804544 /* DKMetadataItem.m */;
+		name = "DKMetadataItem.m: 857";
+		rLen = 12;
+		rLoc = 19056;
+		rType = 0;
+		vrLen = 1240;
+		vrLoc = 18436;
+	};
+	BFE3A9881181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF633B6F0BAE076E001B5901 /* DKDrawableObject+Metadata.m */;
+		name = "DKDrawableObject+Metadata.m: 450";
+		rLen = 0;
+		rLoc = 12963;
+		rType = 0;
+		vrLen = 997;
+		vrLoc = 12846;
+	};
+	BFE3A9891181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFE1B8B20FA18D3400BD6EC6 /* DKTextSubstitutor.m */;
+		rLen = 12;
+		rLoc = 15055;
+		rType = 0;
+	};
+	BFE3A98A1181359D00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFE1B8B20FA18D3400BD6EC6 /* DKTextSubstitutor.m */;
+		name = "DKTextSubstitutor.m: 555";
+		rLen = 0;
+		rLoc = 14503;
+		rType = 0;
+		vrLen = 1130;
+		vrLoc = 14585;
+	};
+	BFE3A99811814A0F00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFE1B8B20FA18D3400BD6EC6 /* DKTextSubstitutor.m */;
+		name = "DKTextSubstitutor.m: 555";
+		rLen = 0;
+		rLoc = 14503;
+		rType = 0;
+		vrLen = 1130;
+		vrLoc = 14585;
+	};
+	BFE3A99911814A0F00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFEAF6D90DB363F9002972BC /* release notes */;
+		name = "release notes: 114";
+		rLen = 0;
+		rLoc = 11543;
+		rType = 0;
+		vrLen = 4029;
+		vrLoc = 0;
+	};
+	BFE3A99A11814A0F00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F515FA0B89DBBC0047BA96 /* DKDrawing.h */;
+		name = "DKDrawing.h: 270";
+		rLen = 0;
+		rLoc = 10140;
+		rType = 0;
+		vrLen = 1918;
+		vrLoc = 9878;
+	};
+	BFE3A99B11814A0F00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516110B89DBBD0047BA96 /* DKLayer.h */;
+		name = "DKLayer.h: 18";
+		rLen = 0;
+		rLoc = 765;
+		rType = 0;
+		vrLen = 1441;
+		vrLoc = 5638;
+	};
+	BFE3A99C11814A0F00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F515FB0B89DBBC0047BA96 /* DKDrawing.m */;
+		name = "DKDrawing.m: 2741";
+		rLen = 27;
+		rLoc = 96843;
+		rType = 0;
+		vrLen = 1435;
+		vrLoc = 96311;
+	};
+	BFE3A99D11814A0F00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516080B89DBBC0047BA96 /* DKObjectOwnerLayer.m */;
+		name = "DKObjectOwnerLayer.m: 2983";
+		rLen = 19;
+		rLoc = 99504;
+		rType = 0;
+		vrLen = 1239;
+		vrLoc = 98838;
+	};
+	BFE3A99E11814A0F00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516120B89DBBD0047BA96 /* DKLayer.m */;
+		name = "DKLayer.m: 280";
+		rLen = 0;
+		rLoc = 9287;
+		rType = 0;
+		vrLen = 1472;
+		vrLoc = 8523;
+	};
+	BFE3A99F11814A0F00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF58D6020C7D6E27009B85CC /* DKLayerGroup.m */;
+		name = "DKLayerGroup.m: 486";
+		rLen = 0;
+		rLoc = 16893;
+		rType = 0;
+		vrLen = 1619;
+		vrLoc = 16970;
+	};
+	BFE3A9A011814A0F00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF58D6020C7D6E27009B85CC /* DKLayerGroup.m */;
+		name = "DKLayerGroup.m: 486";
+		rLen = 0;
+		rLoc = 16893;
+		rType = 0;
+		vrLen = 1633;
+		vrLoc = 16285;
+	};
+	BFE3A9A311814A6E00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF58D6020C7D6E27009B85CC /* DKLayerGroup.m */;
+		name = "DKLayerGroup.m: 486";
+		rLen = 0;
+		rLoc = 16893;
+		rType = 0;
+		vrLen = 1633;
+		vrLoc = 16285;
+	};
+	BFE3A9A411814A6E00938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F515FB0B89DBBC0047BA96 /* DKDrawing.m */;
+		name = "DKDrawing.m: 1805";
+		rLen = 0;
+		rLoc = 63099;
+		rType = 0;
+		vrLen = 1916;
+		vrLoc = 62259;
+	};
+	BFE3AF371189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F515FB0B89DBBC0047BA96 /* DKDrawing.m */;
+		name = "DKDrawing.m: 1805";
+		rLen = 0;
+		rLoc = 63099;
+		rType = 0;
+		vrLen = 1916;
+		vrLoc = 62259;
+	};
+	BFE3AF381189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516330B89DBBD0047BA96 /* DKStyle.h */;
+		name = "DKStyle.h: 150";
+		rLen = 0;
+		rLoc = 4548;
+		rType = 0;
+		vrLen = 1816;
+		vrLoc = 1197;
+	};
+	BFE3AF391189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516140B89DBBD0047BA96 /* DKDrawableObject.h */;
+		name = "DKDrawableObject.h: 63";
+		rLen = 27;
+		rLoc = 2945;
+		rType = 0;
+		vrLen = 2305;
+		vrLoc = 758;
+	};
+	BFE3AF3A1189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF88EEFE0C11B90900A23755 /* DKUndoManager.m */;
+		name = "DKUndoManager.m: 27";
+		rLen = 0;
+		rLoc = 938;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 0;
+	};
+	BFE3AF3B1189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF633E4B10F40FCD00A151D5 /* GCUndoManager.m */;
+		name = "GCUndoManager.m: 643";
+		rLen = 42;
+		rLoc = 16411;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 17666;
+	};
+	BFE3AF3C1189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BF58D6020C7D6E27009B85CC /* DKLayerGroup.m */;
+		name = "DKLayerGroup.m: 486";
+		rLen = 0;
+		rLoc = 16893;
+		rType = 0;
+		vrLen = 1651;
+		vrLoc = 17001;
+	};
+	BFE3AF3D1189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516150B89DBBD0047BA96 /* DKDrawableObject.m */;
+		name = "DKDrawableObject.m: 3658";
+		rLen = 0;
+		rLoc = 124032;
+		rType = 0;
+		vrLen = 919;
+		vrLoc = 123905;
+	};
+	BFE3AF3E1189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516340B89DBBD0047BA96 /* DKStyle.m */;
+		name = "DKStyle.m: 627";
+		rLen = 61;
+		rLoc = 22482;
+		rType = 0;
+		vrLen = 1860;
+		vrLoc = 21682;
+	};
+	BFE3AF3F1189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516110B89DBBD0047BA96 /* DKLayer.h */;
+		name = "DKLayer.h: 83";
+		rLen = 58;
+		rLoc = 3241;
+		rType = 0;
+		vrLen = 1264;
+		vrLoc = 2482;
+	};
+	BFE3AF401189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516120B89DBBD0047BA96 /* DKLayer.m */;
+		name = "DKLayer.m: 406";
+		rLen = 19;
+		rLoc = 13813;
+		rType = 0;
+		vrLen = 1666;
+		vrLoc = 13086;
+	};
+	BFE3AF411189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F516080B89DBBC0047BA96 /* DKObjectOwnerLayer.m */;
+		name = "DKObjectOwnerLayer.m: 2737";
+		rLen = 64;
+		rLoc = 92026;
+		rType = 0;
+		vrLen = 1380;
+		vrLoc = 91590;
+	};
+	BFE3AF421189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F5160A0B89DBBC0047BA96 /* DKObjectDrawingLayer.m */;
+		name = "DKObjectDrawingLayer.m: 3833";
+		rLen = 0;
+		rLoc = 123113;
+		rType = 0;
+		vrLen = 920;
+		vrLoc = 122673;
+	};
+	BFE3AF431189372500938C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96F5160A0B89DBBC0047BA96 /* DKObjectDrawingLayer.m */;
+		name = "DKObjectDrawingLayer.m: 3833";
+		rLen = 0;
+		rLoc = 123113;
+		rType = 0;
+		vrLen = 927;
+		vrLoc = 122673;
+	};
+	BFE7A1FF0E52FD9800626425 /* NSString+DKAdditions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 2353}}";
+			sepNavSelRange = "{2452, 0}";
+			sepNavVisRange = "{1634, 958}";
+		};
+	};
+	BFE7A2000E52FD9800626425 /* NSString+DKAdditions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 494}}";
+			sepNavSelRange = "{535, 111}";
+			sepNavVisRange = "{3, 1019}";
+		};
+	};
+	BFEAEE6E0DAAD959002972BC /* DKSelectAndEditTool.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1286, 2028}}";
+			sepNavSelRange = "{944, 16}";
+			sepNavVisRange = "{2947, 1538}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFEAEE6F0DAAD959002972BC /* DKSelectAndEditTool.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1237, 22750}}";
+			sepNavSelRange = "{17856, 0}";
+			sepNavVisRange = "{17667, 1146}";
+		};
+	};
+	BFEAEEA90DAB00BF002972BC /* DKToolController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 1833}}";
+			sepNavSelRange = "{2213, 0}";
+			sepNavVisRange = "{518, 1465}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFEAEEAA0DAB00BF002972BC /* DKToolController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 15574}}";
+			sepNavSelRange = "{29116, 41}";
+			sepNavVisRange = "{29158, 768}";
+		};
+	};
+	BFEAF61F0DB30912002972BC /* DKRoughStroke.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 686}}";
+			sepNavSelRange = "{341, 0}";
+			sepNavVisRange = "{0, 1535}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFEAF6200DB30912002972BC /* DKRoughStroke.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 2996}}";
+			sepNavSelRange = "{950, 0}";
+			sepNavVisRange = "{339, 1159}";
+		};
+	};
+	BFEAF6D90DB363F9002972BC /* release notes */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1279, 9841}}";
+			sepNavSelRange = "{11543, 0}";
+			sepNavVisRange = "{0, 4029}";
+			sepNavWindowFrame = "{{485, 4}, {1123, 1024}}";
+		};
+	};
+	BFED1F100F0E4D78004CFC16 /* DKObjectStorageProtocol.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1188, 1339}}";
+			sepNavSelRange = "{2292, 92}";
+			sepNavVisRange = "{1917, 2229}";
+		};
+	};
+	BFED1F1C0F0E5251004CFC16 /* DKLinearObjectStorage.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 574}}";
+			sepNavSelRange = "{1069, 0}";
+			sepNavVisRange = "{0, 1401}";
+		};
+	};
+	BFED1F1D0F0E5251004CFC16 /* DKLinearObjectStorage.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 3510}}";
+			sepNavSelRange = "{6438, 20}";
+			sepNavVisRange = "{5778, 814}";
+		};
+	};
+	BFED210A0F0F92CF004CFC16 /* DKBSPObjectStorage.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 1470}}";
+			sepNavSelRange = "{2346, 14}";
+			sepNavVisRange = "{1410, 1911}";
+		};
+	};
+	BFED210B0F0F92CF004CFC16 /* DKBSPObjectStorage.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 11284}}";
+			sepNavSelRange = "{18676, 18}";
+			sepNavVisRange = "{18288, 775}";
+		};
+	};
+	BFF067A40C367530008D427F /* DKQuartzBlendRastGroup.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1029, 546}}";
+			sepNavSelRange = "{702, 180}";
+			sepNavVisRange = "{204, 717}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFF067A50C367530008D427F /* DKQuartzBlendRastGroup.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 3136}}";
+			sepNavSelRange = "{4481, 0}";
+			sepNavVisRange = "{4122, 945}";
+		};
+	};
+	BFF079360C479EF4008D427F /* DKSweptAngleGradient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 742}}";
+			sepNavSelRange = "{565, 0}";
+			sepNavVisRange = "{0, 1297}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFF079370C479EF4008D427F /* DKSweptAngleGradient.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 3822}}";
+			sepNavSelRange = "{3525, 0}";
+			sepNavVisRange = "{3256, 1165}";
+		};
+	};
+	BFF5C9AF0DF0E39F00A6BB74 /* DKLayer+Metadata.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 6435}}";
+			sepNavSelRange = "{11177, 28}";
+			sepNavVisRange = "{10851, 1702}";
+		};
+	};
+	BFF5C9B00DF0E39F00A6BB74 /* DKLayer+Metadata.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 1131}}";
+			sepNavSelRange = "{1066, 0}";
+			sepNavVisRange = "{757, 1441}";
+		};
+	};
+	BFFB68340DA9E5BE00E3DB2C /* NSObject+StringValue.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 2132}}";
+			sepNavSelRange = "{578, 21}";
+			sepNavVisRange = "{670, 1078}";
+		};
+	};
+	BFFB68350DA9E5BE00E3DB2C /* NSObject+StringValue.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 1001}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 512}";
+		};
+	};
+	BFFC4F1E0D9F793A003E1655 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = DrawKit;
+			repositoryNamesForRoots = {
+				"" = DrawKit;
+			};
+		};
+	};
+	BFFC4F1F0D9F793A003E1655 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BFFD84E20C0A88D4006372C6 /* GCObservableObject.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 1148}}";
+			sepNavSelRange = "{601, 0}";
+			sepNavVisRange = "{1266, 2118}";
+			sepNavWindowFrame = "{{15, -1}, {857, 1024}}";
+		};
+	};
+	BFFD84E30C0A88D4006372C6 /* GCObservableObject.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1029, 5488}}";
+			sepNavSelRange = "{3599, 28}";
+			sepNavVisRange = "{2874, 1102}";
+		};
+	};
+}
